@@ -8,7 +8,7 @@ $("input[type='text']").keypress(function(event){
         $(this).val("");
         $("ul").append("<li> <span> <i class='fas fa-trash-alt'></i></span> " + newTodo + "</li>");
     }
-})
+});
 
 $("ul").on("click", "span", function(event){
     $(this).parent().fadeOut(500 , function(){ 
@@ -24,4 +24,4 @@ $(".fa-pencil-alt").click(function(){
 $("li:nth-of-type(4)").css({
     color: "grey",
     textDecoration: "line-through",
-})
+});

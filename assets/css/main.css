@@ -11,6 +11,7 @@ background: linear-gradient(to right, #5f2c82, #49a09d); /* W3C, IE 10+/ Edge, F
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.3);
 
 }
+
 h1{
     background: #2980b9;
     color: white;
@@ -21,22 +22,26 @@ h1{
     font-weight: normal;
 }
 .fa-pencil-alt{
-    float: right
+    float: right;
 }
+
 ul{
     list-style: none;
     margin: 0;
     padding: 0;
 }
+
 li{
     background:#fff;
     height: 40px;
     line-height: 40px;
     color: #666;
 }
+
 li:nth-child(2n){ 
     background:#f7f7f7;
 }
+
 input{
     font-size: 20px;
     color: #2980b9;
@@ -46,22 +51,26 @@ input{
     box-sizing: border-box; 
     margin: 0;
     border: 3px solid rgba(0, 0, 0, 0);
-    display: none
+    display: none;
 }
+
 input:focus{
     background: white;
     border: 3px solid #2980b9;
     outline: none;
 }
+
 input:hover{
     background: white;
     border: 3px solid #2980b9;
     outline: none;
 }
+
 .checked{
     color: grey;
     text-decoration: line-through;
 } 
+
 span{
     background-color: #e74c3c;
     height: 40px;
@@ -74,6 +83,7 @@ span{
     opacity: 0;
 
 }
+
 li:hover span{
     width: 40px;
     opacity: 1;
