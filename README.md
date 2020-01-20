@@ -1,19 +1,14 @@
-# Project title
-A little info about your project and/ or overview that explains **what** the project is about.
-
-
-## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
-
+# TODO List
+Simple and funny todo list
 
 ## Screenshots
 ![screenshot](https://alabugrara.com/img/todoList-poster.png)
 
 
 ## Features
-add todos
-Mark todos as done
-Delete todos
+- add todos
+- Mark todos as done
+- Delete todos
 
 ## Live Demo
 To see the app in action, go to (https://funkateer.github.io/todoList-poster/)
