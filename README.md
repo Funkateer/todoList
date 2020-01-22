@@ -1,8 +1,9 @@
 # TODO List
 Simple and funny todo list
 
+
 ## Screenshots
-![screenshot](https://alabugrara.com/img/todoList-poster.png)
+![screenshot](img/todoList-poster.png)
 
 
 ## Features
@@ -40,7 +41,7 @@ Project Link: https://github.com/Funkateer/todoList
 
 
 ## Contact
-Alaeddin Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
+Alà Eddin Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
 
 
 <!-- Markdown links & imgs  -->
