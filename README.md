@@ -3,7 +3,7 @@ Simple and funny todo list
 
 
 ## Screenshots
-![screenshot](img/todoList-poster.png)
+![screenshot](img/poster-todoList.png)
 
 
 ## Features
